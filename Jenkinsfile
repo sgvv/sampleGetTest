@@ -11,7 +11,7 @@ node {
         /* This builds the actual image; synonymous to
          * docker build on the command line */
 
-        app = docker.build("sgvv/samplegettest")
+        app = docker.build("sgvv1/samplegettest")
     }
 
     stage('Test image') {
