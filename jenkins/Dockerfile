@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:alpine
+FROM sampleTest/jenkins/jenkins:alpine
 USER root
 
 # set version label
