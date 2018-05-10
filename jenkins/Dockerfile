@@ -2,7 +2,7 @@ FROM jenkins/jenkins:alpine
 USER root
 
 # set version label
-LABEL maintainer="Ajeet Raina"
+LABEL maintainer="satyam"
 
 # Install the latest Docker CE binaries
 RUN \
