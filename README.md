@@ -1,6 +1,7 @@
 # A Simple HTML Webpage for Demonstrating CI-CD with Docker, Jenkins & GitHub 
 
 ## Cloning the Repository
+## Cloning the Repository
 
 ```
 $git clone https://github.com/ajeetraina/webpage
